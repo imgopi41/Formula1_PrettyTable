@@ -15,11 +15,11 @@ IDE used: VS CODE(1.67.0)
 
 **III. Workflow**
 
-  1.This is simple Python table that shows Formula 1 Drivers details
-  2.Using PrettyTable module F1 table is created
-  3.Position, Drivers name, Number, Points and Gap are used followed by Sql table
-  4.Variable called "table" is assigned to store the data of F1 racers
-  5.User can add extra data inside rows and field_names
+1. This is simple Python table that shows Formula 1 Drivers details.
+2. Using PrettyTable module F1 table is created
+3. Position, Drivers name, Number, Points and Gap are used followed by Sql table
+4. Variable called "table" is assigned to store the data of F1 racers
+5. User can add extra data inside rows and field_names
 
 
 **IV. Demo**
