@@ -28,5 +28,5 @@ IDE used: VS CODE(1.67.0)
 
 **V. Application & Future enhancements**
 
-This F1 Dataframe can be further implemented with extra data, 
+This F1 table can be further implemented with extra data, 
 Emoji's can be used at there there respective Countries and with unique data inside the table.
